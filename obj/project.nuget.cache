@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9foJl6EBEIKRbMZJLI8nU+zVgLH/5e5MATPRag/FsKVj73hAI4SpXIZd/pQA/5Jcv+GLCbWN4RFVbeBEkj2nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Rajani\\LearningC\\Chat\\Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
