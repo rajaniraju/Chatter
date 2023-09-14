@@ -6,3 +6,6 @@
 /.vs/Chat/FileContentIndex/cd6bb623-0dbf-4036-862c-27f2e9910cff.vsidx
 /obj/Debug/net6.0/Chat.dll
 /bin/Debug/net6.0/Chat.dll
+/obj/Container/ContainerDevelopmentMode.cache
+/obj/Container/ContainerName.cache
+/obj/Container/
