@@ -1,3 +1,4 @@
+using Chat;
 using Chat.Hubs;
 
 
@@ -11,6 +12,7 @@ builder.Services.AddCors
 {
 options.AddDefaultPolicy(builder=> { builder.WithOrigins("http://localhost:3001").AllowAnyHeader().AllowAnyMethod().AllowCredentials(); });
 });
+builder.Services.AddSingleton<IDictionary<string, UserConnection>>(options=>new Dictionary<string, UserConnection>());
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
